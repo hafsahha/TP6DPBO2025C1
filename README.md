@@ -59,12 +59,13 @@ Kelas ini mengelola atribut pipa, termasuk posisi dan gerakan. Pipa bergerak dar
 ## Dokumentasi
 
 **Screenshot Tampilan Program**:
-- **StartMenu**:
-![StartMenu](screenshots/StartMenu.png)
-- **FlappyBird**:
-![GamePlay](screenshots/GamePlay.png)
-![GameOver](screenshots/GameOver.png)
-
+| Start | Play | Game Over |
+|---|---|---|
+| ![StartMenu](screenshots/StartMenu.png) | ![GamePlay](screenshots/GamePlay.png) | ![GameOver](screenshots/GameOver.png) |
 
 **Video Rekaman Layar**:
-<video controls src="screenshots/FlappyBird_Tutorial.mp4" title="Flappy Bird Gameplay"></video>
+
+
+https://github.com/user-attachments/assets/4784a11b-05db-48b4-8e7b-8c53eb943cc7
+
+
